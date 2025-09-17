@@ -7,3 +7,8 @@ Overall, this application simplifies tour management processes and improves the 
 
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/efd92773-0d4c-4fc3-b257-4a9b935f0e18" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/d637a8e6-dd3d-482d-a589-a7c67177e214" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/526160a8-ccd4-4d53-a78f-5630661e2345" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/435e391d-5d74-47fa-a0de-9ad04d1c5582" />
