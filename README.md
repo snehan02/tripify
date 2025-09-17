@@ -5,7 +5,7 @@ Customers can search for and book tours based on their preferences. The applicat
 advanced search and filtering for enhanced user experience. Additionally, it provides a review and rating system for customers to share their feedback.
 Overall, this application simplifies tour management processes and improves the booking experience for both tour operators and customers. And also, customers get better experience of their future trip.
 
-<h6>Home Page<h6>
+<h1>Home Page<h1>
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/efd92773-0d4c-4fc3-b257-4a9b935f0e18" />
 
 Tours page-
