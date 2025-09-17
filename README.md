@@ -17,5 +17,5 @@ Overall, this application simplifies tour management processes and improves the 
 <h1>Login Page</h1>
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/526160a8-ccd4-4d53-a78f-5630661e2345" />
 
-<h1>Testimonal</h1>
+<h1>Testimonials</h1>
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/435e391d-5d74-47fa-a0de-9ad04d1c5582" />
